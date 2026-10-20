@@ -1,0 +1,8 @@
+{
+  "name": "Remix خضرة الخير - Khodrat El Kheir",
+  "description": "خدمة توصيل الخضر والفواكه الطازجة من الجنان لباب الدار في أكادير، إنزكان، الدشيرة وآيت ملول. Livraison de légumes et fruits frais à domicile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
